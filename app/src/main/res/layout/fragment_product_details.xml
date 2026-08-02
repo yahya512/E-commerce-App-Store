@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="8dp"
-    tools:context=".productDetails.presentation.ui.ProductDetailsFragment">
+    tools:context=".productdetails.presentation.ui.ProductDetailsFragment">
 
     <ProgressBar
         android:id="@+id/progress_bar"

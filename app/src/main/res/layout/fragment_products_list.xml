@@ -4,17 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".productList.presentation.ui.ProductsListFragment">
+    tools:context=".productlist.presentation.ui.ProductsListFragment">
 
-<!--    <EditText-->
-<!--        android:id="@+id/searchText"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginHorizontal="15dp"-->
-<!--        android:hint="Search for your favourite product"-->
-<!--        android:paddingStart="10dp"-->
-<!--        app:layout_constraintBottom_toTopOf="@id/swipToRefresh"-->
-<!--        app:layout_constraintTop_toTopOf="parent" />-->
+    <!--    <EditText-->
+    <!--        android:id="@+id/searchText"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginHorizontal="15dp"-->
+    <!--        android:hint="Search for your favourite product"-->
+    <!--        android:paddingStart="10dp"-->
+    <!--        app:layout_constraintBottom_toTopOf="@id/swipToRefresh"-->
+    <!--        app:layout_constraintTop_toTopOf="parent" />-->
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipToRefresh"
