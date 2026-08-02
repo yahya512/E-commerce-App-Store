@@ -13,6 +13,7 @@
 - Fragment & Fragment Lifecycle
 - ViewModel
 - Navigation Component
+- RecyclerView with ListAdapter
 
 ## 📦 Networking
 
